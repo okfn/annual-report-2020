@@ -1,0 +1,11 @@
+# Site settings
+title: Annual Report
+description: Looking back on 2020
+
+#googleanalytics: TODO
+
+# Build settings
+markdown: kramdown
+exclude: ["README.md"]
+sass:
+  style: compressed
