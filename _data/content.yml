@@ -32,97 +32,96 @@ In July we [sadly bid farewell](https://blog.okfn.org/2020/07/09/catherine-stihl
     2020 was also a banner year for virtual presentations. You can watch videos of Frictionless presentations from: [CarpentryCon at Home](https://www.youtube.com/watch?v=SCPYRiDXTQA), FOSDEM, [Research Reproducibility Conference](https://www.youtube.com/watch?v=b82Gp5akses), [SciPy 2020](https://www.youtube.com/watch?v=vZAi4OnfH-Q), and [All Things Open](https://www.youtube.com/watch?v=7zQBS1AugwU).
 
    
-    ### School of Data
+    ### Training and data literacy
 
-    School of Data’s place within the Open Knowledge Foundation underwent a strategic shift in 2019, alongside the rest of the organisation. Under the terms of this transition, the School of Data network will be supported to become an independent and self-funded community, leading to the Open Knowledge Foundation becoming a normal member of the network. 
+    **International Republican Institute**
+    The Data for Democracy programme intends to increase the capacity of democracy activists to collect, process and interpret data. To do this, we built a data literacy curriculum customised to the work of up to 20 democracy activists. This work is going well and is due to be completed by the end of Q1 2021. 
 
-    As part of this strategic shift, the School of Data team has been redeployed in order to embed data literacy trainings and practices across our offerings, leading to the formalisation of [our offerings of data trainings](https://okfn.org/what-we-do/training/). In 2019, the team started work on new strategic priorities where its expertise is relevant, such as algorithms and artificial intelligence. This led to the launch of a pilot capacity-building project for legal professionals around algorithms and AI, the Open Knowledge Justice Project.
+    **CoAct**
+    CoAct is a European Union-funded consortium of research institutions, NGOs and global networks of open science and open data activism. The project’s goal is to identify and develop a general model for citizen social science that engages citizen bodies concerned with specific social issues in co-research. In the first year of this work, we participated in the forming and planning of the project, and advised participants on data management best practices. 
 
-    We have been running several data literacy projects in parallel to the transition. We’ve worked with Hivos on their Open Contracting programme; with Publish What You Pay to organise sessions during their Global Assembly; and with the Natural Resource Governance Institute on a transparency dashboard for the extractives industry. New international programmes have been launched with Transparency International, Hivos and the European-Union funded CoAct research consortium.
+    **Transparency International**
+    We worked to deliver data literacy training, focused on the Global Corruption Barometer survey. As part of this work, we are also creating a written guide to the Global Corruption Barometer data, that is planned to be released alongside future corruption surveys by Transparency International.
+
+    **Facebook Data for Good**
+    In 2020, we began working with Facebook’s Data for Good team on a series of trainings focused on GIS for various stakeholders including ministries of health and national disaster response agencies across 15 countries and working with trainers from the School of Data network. 
+
    
     ### Open Spending
 
-    In 2020 we continued to support governments in making their finances more transparent In close partnership with the [Global Initiative for Fiscal Transparency](http://www.fiscaltransparency.net/) by building on our [OpenSpending platform](https://openspending.org/) and providing on-call support though our open fiscal helpdesk, helping governments including Argentina, Croatia, Mexico and South Africa to publish their budgets in the Fiscal Data Package format. The resulting data is all available on our central OpenSpending portal, which provides easy ways to find data with the [OS Explorer](https://openspending.org/s/); multiple ways of visualising the data out-of-the-box via the OS Viewer; and a sophisticated application programming interface for more technical users of the data.
+    OpenSpending is one of the longest running projects both at Open Knowledge Foundation and within the open data ecosystem in its entirety. In July, we [announced](https://blog.okfn.org/2020/07/09/openspending-stewardship-moving-to-datopian/) that Datopian would take on the stewardship of the project going forward with Rufus Pollock, the original creator of OpenSpending, in the lead.
 
+    ### Open Knowledge Justice Programme
+    
+    In 2020, Open Knowledge Foundation [made a commitment](https://blog.okfn.org/2020/03/13/open-knowledge-ai-and-algorithms/) to apply our skills and network to the increasingly important topics of artificial intelligence (AI) and algorithms.
+
+    As a result, we launched the [Open Knowledge Justice Programme](https://blog.okfn.org/2020/04/14/launching-the-open-knowledge-justice-programme/) in April 2020, with the objective of ensuring [public impact algorithms](https://blog.okfn.org/2021/02/04/what-is-a-public-impact-algorithm/) cause no harm. Public impact algorithms are those that involve automated decision-making using AI and/or algorithms, are deployed by governments and corporations and have the potential to cause serious harm to individuals and communities. We are pursuing our mission through three strands of activities: training, advocacy and strategic litigation.
+
+    *Training*: We hosted a [webinar](https://www.youtube.com/watch?v=ux03vcTwFNk) for lawyers and legal campaigners called ‘AI and Algorithms for Lawyers in the Covid context and beyond’. Over 70 participants attended and we received great feedback. We also held a webinar for police officers, which covered an introduction to how AI and algorithms work and a detailed exploration of these systems in the context of law enforcement: Automatic Number Plate Recognition (ANPR), facial recognition and automated parole decisions, for example. We focused on the risks and harms of deploying AI and algorithms in policing, identifying the serious problems of bias, especially as directed towards people of colour. 
+
+    *Advocacy*: The programme received good press via the [Economist’s Babbage podcast](https://www.economist.com/podcasts/2020/06/24/tracking-and-tracing-covid-19-what-are-the-promises-limitations-and-risks) and a [full article on algorithms in Covid exams](https://www.theguardian.com/law/2020/jul/22/exams-that-use-facial-recognition-are-fair-but-theyre-also-intrusive-and-biased) in The Guardian in July. In November, the director of the Justice Programme, Meg Foulkes, was interviewed by The Privacy Collective:  ‘[The future of tech should be fair, transparent, accountable](https://theprivacycollective.eu/en/privacy-matters/an-interview-with-meg-foulkes-open-knowledge-foundation/)’
+
+    *Strategic litigation*: In December, we began a brand new activity for OKF: [strategic litigation](https://blog.okfn.org/2021/01/27/open-knowledge-justice-programme-takes-new-step-on-its-mission-to-ensure-algorithms-cause-no-harm/). Supported by a generous grant from the [Digital Freedom Fund](https://digitalfreedomfund.org/), we are pursuing a stronger, interventionist approach in ensuring that public impact algorithms do no harm through legal action. This might mean we will go to court to make sure AI and algorithms are used fairly. But it will also include advocacy in the form of letters and negotiation. We think it’s wrong that governments can purchase software and not be transparent around key points of accountability such as its objectives, an assessment of the risk it will cause harm and its accuracy. As far as we are able, we’ll share our cases for others to use, re-use and modify for their own legal actions, wherever they are in the world.
+    
     ### Services
 
     #### UNHCR
 
     This year we continued our work with the United Nations Refugees Agency by developing their RIDL Platform further. RIDL is a centralised and secure data repository that ensures their team is able to use its valuable raw data to its full potential and make it available externally for operational partners, as well as preserving it for future use.
-    
-    #### Honduras
-
-    We supported the government of Honduras in the development of their open data strategy and portal by providing technical support to our partners Datopian, and organising the training component of the engagement. We created a full programme designed to develop data skills and build capacity on use and maintenance of the platform. We also focussed on the need to promote the value of open data re-use, the need to develop a strong community of data re-users and collaboration amongst government partners.    
-   
-    #### DSM Biology
-
-    DSM is a global purpose-led, science-based company specializing in nutrition, health and sustainable living. It aims to create brighter lives for all by using scientific and innovation power to tackle some of the world’s greatest challenges. We supported their team by providing technical training and overseeing development of their CKAN-based internal data platform, which also makes use of Frictionless Data.
-
-    #### Right to Education Index (RTEI)
-
-    ![Right to Education Index](img/RTEI.png)
-
-    The Right to Education Index (RTEI) is a project of RESULTS Educational Fund. It is a global accountability initiative that aims to ensure that all people, no matter where they live, can enjoy their right to a quality education. We first partnered with RTEI in 2016 to build an open tool that monitors the satisfaction of the right to education based on international human rights law frameworks. Advocates, researchers, and all citizens can use RTEI to engage in informed dialogue about the satisfaction of the right to education. This year we continued to support the team with data updates and improvements to the website. 
 
 - section: Highlights from our collaborations
   text: |
-    ### Open Data Day 2019
+    ### Open Data Day 2020
 
-    ![Open Data Day Events](img/odd2019_events_final.png)
+    On Saturday 7th March 2020, the tenth [Open Data Day](https://opendataday.org/) took place with people around the world organising [over 300 events to celebrate, promote and spread the use of open data](https://blog.okfn.org/2020/06/18/open-data-day-2020-its-a-wrap/).
 
-    On Saturday 2nd March, groups from around the world organised more than 300 events to celebrate, promote and spread the use of open data. We again acted as a coordinator to connect, promote and energise teams all over the world as well as running our [annual mini-grants scheme](https://blog.okfn.org/2019/02/21/these-are-the-grantees-of-the-open-data-day-2019-mini-grant-scheme/) which proved financial support for dozens of events. A total of 325 events were registered in the [opendataday.org](https://opendataday.org/) map around the world, with a record of 26 events in Nepal, and 57 events in Japan. This shows that there is a well-established and a growing community around Open Data Day.
+    Thanks to the generous support of our funders – Datopian, the Foreign & Commonwealth Office, Hivos, the Latin American Open Data Initiative (ILDA), Mapbox, Open Contracting Partnership and Resource Watch – we were able to give out [67 mini-grants](https://blog.okfn.org/2020/02/20/meet-the-organisations-who-have-been-awarded-open-data-day-2020-mini-grants/), the most ever.
 
-    With so much happening, the online spread of news on Open Data Day was also impressive: the hashtag [#OpenDataDay](https://twitter.com/search?q=%23opendataday&src=typd) was used extensively to share live updates on events via Twitter. We summarised some of the highlights during the day itself using Twitter Moments for the first time. See what happened on the different continents: [Asia & Oceania](https://twitter.com/i/events/1100782873769115648); [Africa & Europe](https://twitter.com/i/events/1101417424497328129); and [the Americas](https://twitter.com/i/events/1101952874769272832).
+    Sadly several events had to be cancelled or delayed as the COVID-19 pandemic affected countries around the world but some of our grantees were able to swiftly adapt their plans in order to deliver engaging virtual Open Data Day celebrations.
 
-    ### csv,conf,v4
+    The community registered a total of [307 events on the Open Data Day map](https://opendataday.org/events/2020/) with events taking place in every timezone and our team captured some of the great conversations across [Asia/Oceania](https://twitter.com/i/events/1235557584616243204), [Africa/Europe](https://twitter.com/i/events/1235557343414358020) and [the Americas](https://twitter.com/i/events/1235556386991464462) by using Twitter Moments.
+
+    ### csv,conf,v5
    
-    ![csv,conf,v4](img/csvconfv4.jpg)
-    
-    [csv,conf,v4](https://csvconf.com/2019/) took place on May 8th and 9th in Portland, Oregon, United States. csv,conf is a much-loved community conference bringing together diverse groups to discuss data topics, featuring stories about data sharing and data analysis from science, journalism, government, and open source. Over two days, attendees had the opportunity to hear about ongoing work, share skills, exchange ideas and kickstart collaborations. As in previous years, the Open Knowledge Foundation were members of the organising team and the organisation supported travel grants through our Frictionless Data grant from the Sloan Foundation. Frictionless Data pilot partners, grantees and community contributors were well represented in the talks and the conference presented a number of opportunities for new collaborations.
+    csv,conf is a much-loved community conference bringing together diverse groups to discuss data topics, featuring stories about data sharing and data analysis from science, journalism, government, and open source. Over two days, attendees had the opportunity to hear about ongoing work, share skills, exchange ideas and kickstart collaborations. As in previous years, the Open Knowledge Foundation were members of the organising team.
 
+    csv,conf,v5 was planned to go ahead in May 2020 in person in Washington DC. Due to the Covid-19 situation this was not possible and the organising team made the decision to do the event online. It went ahead on May 13-14 2020. The event was generally accepted to be a huge success and one of the first in person conferences to move online. with over 1,000 registrations for the event. Most talks had well over 300 attendees. All the talks are [available online](https://www.youtube.com/playlist?list=PLg5zZXwt2ZW6Hbh4rL7XGcSQ3aOSS1_kG). We have [written more](https://csvconf.com/going-online/) about our experience of organising an online conference with the hope that it will help others 
+  
     ### CKAN
 
-    2019 saw the [announcement](https://blog.okfn.org/2019/06/06/statement-from-the-open-knowledge-foundation-board-on-the-future-of-the-ckan-association/) of a new joint stewardship arrangement for the [CKAN project](https://ckan.org/) lead by [Link Digital](https://linkdigital.com.au/) and [Datopian](https://www.datopian.com/), two of the longest serving contributors to the CKAN community. The decision was made to empower CKAN by strengthening both the platform and community. The Open Knowledge Foundation remains the ‘purpose trustee’ to ensure the stewards remain true to the purpose and ethos of the CKAN project.
+    2020 saw an important milestone in CKAN history with the release of the [2.9 version](https://ckan.org/2020/08/05/ckan-2-9-release/), which marked the culmination of a multi-year effort to modernise the source code and bring it up to speed with modern development practices. We led this effort from the beginning, collaborating on the development and planning and coordinating contributions from many different parties.
 
-    As ever, we continued our involvement in the maintenance and governance of CKAN and provided community and technical support at an important time for the project. CKAN is building towards a new version, more in line with the current trends in software development and deployment.
+    We remain involved in the day to day maintenance of the project and support the ever-growing community across different channels, and will continue to help steer the project in this new phase it is starting.
 
-    ### Campaigns
 
-    In 2019, we refocused our efforts on why we were created in 2004 to promote the openness of all forms of knowledge. To keep reinforcing the benefits of openness, we pursued the following issues:
-    * We [challenged](https://blog.okfn.org/2019/02/26/facebook-challenged-to-tackle-the-spread-of-fake-news-ahead-of-vital-european-elections/) Facebook to tackle the spread of ‘fake news’ ahead of vital European elections and [asked](https://blog.okfn.org/2019/07/02/eu-must-work-harder-to-tackle-disinformation/) the president of the European Commission to focus on the actions of online platforms
-    * We [criticised](https://blog.okfn.org/2019/04/15/eu-council-backs-controversial-copyright-crackdown/) the deeply disappointing passage of the European Union’s controversial copyright crackdown
-    * We [joined forces](https://blog.okfn.org/2019/05/29/the-sum-of-our-parts-open-organisations/) with six other international “open” organisations to address our shared challenges 
-    * We [laid out](https://blog.okfn.org/2019/07/17/transforming-the-uks-data-ecosystem-open-knowledge-foundations-thoughts-on-the-national-data-strategy/) how the UK government could transform the UK’s data ecosystem by creating a National Data Strategy that emphasises the importance of sharing more, better quality information and data openly
-    * We [highlighted](https://blog.okfn.org/2019/07/09/missed-opportunities-in-the-eus-revised-open-data-and-re-use-of-public-sector-information-directive/) the missed opportunities in the EU’s revised open data and re-use of public sector information directive
-    * We [explained](https://blog.okfn.org/2019/08/26/world-library-congress-closing-libraries-is-short-sighted/) that closing down libraries to save money is ‘one of the most short-sighted decisions that public officials can make’
-    * We [called on](https://blog.okfn.org/2019/07/30/why-greater-tax-transparency-is-needed-to-help-fix-the-broken-global-tax-system/) the European Union to finally pass improved tax transparency measures after years of inaction
-    * We [pressed](https://blog.okfn.org/2019/06/04/uk-health-secretary-challenged-to-tackle-access-to-medicines/) the UK’s health secretary to address the global lack of access to medicines
+- section: Campaigns
+  text:
+  
+    To push for a more open world, we pursued the following issues in 2020:
 
+    • We [demanded answers](https://okfn.org/about/press/releases/27-organisations-and-advocates-demand-answers-about-nhs-covid-datastore/) to questions about the UK government's plans to build an NHS COVID-19 datastore alongside dozens of leading digital rights organisations.
+    • We [revealed](https://okfn.org/about/press/releases/brits-demand-openness-government-tackling-coronavirus-new-opinion-poll/) that the British public would overwhelmingly value openness, transparency and [respect for human rights](https://okfn.org/about/press/releases/new-opinion-poll-uk-contact-tracing-app-must-take-account-human-rights/) in the government's response to the COVID-19 pandemic.
+    • We [appealed](https://okfn.org/about/press/releases/openness-key-uk-and-scottish-govt-response-covid-19/) to governments around the world to embrace openness and transparency in their responses to the COVID-19 pandemic.
+    • We [welcomed](https://okfn.org/about/press/releases/new-cdei-report-calls-social-media-regulation-overhaul/) a call by the Centre for Data Ethics & Innovation to overhaul social media regulation in the UK.
+  
 - section: New team members
   text: |
   subsections:
   - title:
     people:
-      - name: Catherine Stihler, CEO
-        photo: https://1.gravatar.com/avatar/02e100914fb80181cda8edbf4683ac66
+      - name: James Hamilton, Development Manager
+        photo: 
+      - name: Chris Shaw, Senior Developer
+        photo: 
 
 - section: Network highlights
   text: |
 
-    From members of Open Knowledge Finland organising the hugely successful [myData Festival](https://mydata2019.org/) in Helsinki to Open Knowledge Nepal’s work on [real-time data](https://blog.okfn.org/2019/09/02/setting-up-a-way-forward-for-real-time-data-in-nepal/) and partnering to host the country’s [first women in data conference](https://blog.okfn.org/2019/03/05/nepals-first-women-in-data-conference/), 2019 was a busy year for the chapters and established groups around the world which make up the [Open Knowledge Network](https://okfn.org/network/). 
-
-    To name just a few further achievements: Open Knowledge France launched [madada.fr](https://madada.fr/) (using mySociety’s Alaveteli platform) to [help French citizens submit access to information requests](https://fr.okfn.org/2019/10/24/madada-fr-ma-demande-dacces-a-un-document-administratif/); Open Knowledge Sweden partnered with Transparency International to [promote usage of open data for combating corruption in the Baltic and Nordic countries](https://blog.okfn.org/2019/06/13/building-a-nordic-anti-corruption-data-ecosystem/); Open Knowledge Ethiopia helped the country [adopt an open access policy](https://blog.okfn.org/2019/10/09/ethiopia-adopts-a-national-open-access-policy); and Open Knowledge Somalia [developed a data literacy programme](https://blog.okfn.org/2019/08/19/ok-somalia-data-literacy-training-program/).
-
+    The coronavirus pandemic turned the world upside down in 2020 but Open Knowledge chapters from around the world stepped up, lending their knowledge and expertise to efforts to tackle COVID-19.
+    
+    [Open Knowledge Brazil](https://www.ok.org.br/) launched a successful legal challenge to get the Brazilian government to release more open data to help in the fight against COVID-19. The chapter also launched a [COVID-19 data transparency site](https://transparenciacovid19.ok.org.br/). Members of the Open Knowledge Switzerland team [joined](https://discuss.okfn.org/t/monitoring-covid-19-effects/9275) with other open data experts, public health officials and government workers to generate [comprehensive and timely open data](https://github.com/openZH/covid_19/) on the spread of COVID-19 in all the Swiss cantons that make up the country. Code for Germany – an Open Knowledge Germany project – was one of the partners which initiated the huge [WirVsVirus hackathon](https://wirvsvirushackathon.org/) aimed at solving COVID-19 issues with over 40,000 people taking part. Open Knowledge Belgium partnered for the [Hack the Crisis Belgium initiative](https://www.hackthecrisis.be/en/), bringing together the tech and start-up world to launch a public platform to create dedicated solutions. 
+    
     To learn more about the activities of Network chapters, groups or affiliates in your country or region, visit [okfn.org/network](https://okfn.org/network/) to connect with people where you live who also want to open information and use it to empower individuals and communities.
-
-
-- section: Research
-  text: |
-    In 2019, our team investigated ways to put information into use for society. We developed methods to study data use, investigate what makes information useful and usable and explore ways of organising and collaborating around information in data communities.
-
-    This year, we published the following research:
-    * We announced the results of the [Africa Open Data Index](http://test-african-data.survey.okfn.org/). This regional version of our Global Open Data Index collected baseline data on open data publication in 30 African countries to provide input for the [second Africa Data Revolution Report](http://webfoundation.org/docs/2019/03/Africa-data-revolution-report.pdf). Read our [blogpost](https://blog.okfn.org/2019/03/05/how-open-is-government-data-in-africa/) for more information.
-    * To better understand and explore the interplay between open governance and the governance/production of open data, we published this [blogpost](https://blog.okfn.org/2019/02/20/open-data-governance-and-open-governance-interplay-or-disconnect/) with partners from the Web Foundation and GovLab 
 
 - section: Multimedia
   text: |
@@ -142,26 +141,6 @@ In July we [sadly bid farewell](https://blog.okfn.org/2020/07/09/catherine-stihl
         image: https://img.youtube.com/vi/nhA2FcCqQVE/0.jpg
         url: https://www.youtube.com/watch?v=nhA2FcCqQVE
         type: video
-      - label: IFLA General Conference - What Lawmakers Think about Libraries
-        image: https://img.youtube.com/vi/GVxVXMtXY8U/0.jpg
-        url: https://www.youtube.com/watch?v=GVxVXMtXY8U
-        type: video
-      - label: Software Sustainability Institute's Collaborations Workshop 2019 
-        image: https://img.youtube.com/vi/DGk5bGq8HbQ/0.jpg
-        url: https://www.youtube.com/watch?v=DGk5bGq8HbQ
-        type: video
-      - label: csv,conf,v4 livestream
-        image: https://img.youtube.com/vi/A6v8MUYVlnY/0.jpg
-        url: https://www.youtube.com/watch?v=A6v8MUYVlnY
-        type: video
-      - label: Frictionless Data Pipelines - PyData Austin 2019
-        image: https://img.youtube.com/vi/W2H8lrTdVBE/0.jpg
-        url: https://www.youtube.com/watch?v=W2H8lrTdVBE
-        type: video
-      - label: 2019 eLife Innovation Sprint podcast
-        image: https://i1.sndcdn.com/artworks-000601927441-nff3fm-t500x500.jpg
-        url: https://soundcloud.com/user-442729760/elife-sprint-2019-podcast
-        type: audio
 
 - section: How to get involved
   text: |
